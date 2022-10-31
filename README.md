@@ -42,3 +42,10 @@ while文
   繰り返す回数があらかじめわからない場合
 break文
 continue文
+
+## foreach文
+foreach.php
+foreach文
+  配列や連想配列に対して繰り返し処理を行いたい場合
+break文
+continue文
