@@ -49,3 +49,6 @@ foreach文
   配列や連想配列に対して繰り返し処理を行いたい場合
 break文
 continue文
+
+## 関数
+function.php
