@@ -12,10 +12,12 @@ data.php
 
 ## 変数
 variable.php
+変数 variable
 変数の命名規則(PHP編)
 
 ## 配列
 array.php
+配列 array
 
 ## 連想配列
 associative-array.php
@@ -23,16 +25,17 @@ associative-array.php
 ## 条件分岐
 if.php
 if文
-論理型
-条件分岐
-等価演算子・厳密等価演算子
+論理型 boolean
+条件分岐 conditional branch
+等価演算子
+厳密等価演算子
 論理演算子
 
 ## for文
 for.php
 for文
   繰り返す回数があらかじめわかっている場合
-無限ループ
+無限ループ infinite loop
 break文
 continue文
 
@@ -52,3 +55,12 @@ continue文
 
 ## 関数
 function.php
+関数 function
+
+## 関数の引数・戻り値
+function.php
+引数 argument
+戻り値 return value
+型宣言
+  引数の型宣言
+  戻り値の型宣言
