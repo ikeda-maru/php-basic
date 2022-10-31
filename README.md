@@ -22,14 +22,23 @@ associative-array.php
 
 ## 条件分岐
 if.php
+if文
 論理型
 条件分岐
-if文
 等価演算子・厳密等価演算子
 論理演算子
 
 ## for文
 for.php
+for文
+  繰り返す回数があらかじめわかっている場合
 無限ループ
+break文
+continue文
+
+## while文
+while.php
+while文
+  繰り返す回数があらかじめわからない場合
 break文
 continue文
