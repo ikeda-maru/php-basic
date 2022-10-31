@@ -10,7 +10,8 @@
   <p>
     <?php
     // 変数に値を代入する
-    $user_name = '侍太郎';
+    // JavaScriptのように変数宣言(let)は必要ない
+    $user_name = '太郎';
 
     // 変数の中身を出力する
     echo $user_name;
@@ -18,7 +19,7 @@
     echo '<br>';
 
     // 変数に値を再代入する
-    $user_name = '侍花子';
+    $user_name = '花子';
 
     // 変数の中身を出力する
     echo $user_name;
@@ -36,7 +37,7 @@
     echo '<br>';
 
     // 変数に値を代入する
-    $my_name = '侍一郎';
+    $my_name = '一郎';
 
     // 変数と文字列を連結し、その結果を出力する
     echo '私の名前は' . $my_name . 'です。';
