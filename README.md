@@ -91,3 +91,6 @@ greg-grep.php
 
 ## 日付・時刻
 date-time.php
+
+## 乱数
+random.php
