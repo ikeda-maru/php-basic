@@ -88,3 +88,6 @@ preg-match.php
 preg-match-all.php
 preg-replace.php
 greg-grep.php
+
+## 日付・時刻
+date-time.php
