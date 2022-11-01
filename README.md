@@ -85,3 +85,6 @@ constant.php
 
 ## 正規表現
 preg-match.php
+preg-match-all.php
+preg-replace.php
+greg-grep.php
