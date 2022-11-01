@@ -64,3 +64,18 @@ function.php
 型宣言
   引数の型宣言
   戻り値の型宣言
+
+## 変数のスコープ
+scope.php
+スコープ
+
+## クラス
+class.php
+クラス class
+オブジェクト object
+インスタンス instance
+プロパティ property
+ オブジェクトの変数
+メソッド method
+  オブジェクトの関数
+コンストラクタ constructor
