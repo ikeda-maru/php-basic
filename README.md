@@ -82,3 +82,6 @@ class.php
 
 ## 定数
 constant.php
+
+## 正規表現
+preg-match.php
