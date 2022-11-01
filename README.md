@@ -75,7 +75,10 @@ class.php
 オブジェクト object
 インスタンス instance
 プロパティ property
- オブジェクトの変数
+  オブジェクトの変数
 メソッド method
   オブジェクトの関数
 コンストラクタ constructor
+
+## 定数
+constant.php
